@@ -3,4 +3,5 @@
 out/
 *.iml
 Icon[\r]
+Icon?
 .ipynb_checkpoints/
