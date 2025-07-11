@@ -10,6 +10,8 @@ Welcome to Introduction to Programming using the Python programming language. Be
 
 [Chapter 4](https://colab.research.google.com/github/pforkner/Intro_to_Programming/blob/main/chap04.ipynb)
 
+[Chapter 5](https://colab.research.google.com/github/pforkner/Intro_to_Programming/blob/main/chap05.ipynb)
+
 # Credits
 
 Adapted from [Think Python: 3rd Edition](https://allendowney.github.io/ThinkPython/index.html) by [Allen B. Downey](https://allendowney.com)
