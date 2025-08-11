@@ -18,6 +18,8 @@ Welcome to Introduction to Programming using the Python programming language. Be
 
 [Chapter 7: Recursion](https://colab.research.google.com/github/pforkner/Intro_to_Programming/blob/main/chap07.ipynb)
 
+[Chapter 8: Recursion](https://colab.research.google.com/github/pforkner/Intro_to_Programming/blob/main/chap08.ipynb)
+
 # Credits
 
 Adapted from [Think Python: 3rd Edition](https://allendowney.github.io/ThinkPython/index.html) by [Allen B. Downey](https://allendowney.com)
