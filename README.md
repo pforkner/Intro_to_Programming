@@ -22,6 +22,10 @@ Welcome to Introduction to Programming using the Python programming language. Be
 
 [Chapter 9: Lists](https://colab.research.google.com/github/pforkner/Intro_to_Programming/blob/main/chap09.ipynb)
 
+## Pair Programming Exercises
+
+[01: Space Needle](https://colab.research.google.com/github/pforkner/Intro_to_Programming/blob/main/01_Space_Needle.ipynb)
+
 # Credits
 
 Adapted from [Think Python: 3rd Edition](https://allendowney.github.io/ThinkPython/index.html) by [Allen B. Downey](https://allendowney.com)
