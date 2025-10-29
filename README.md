@@ -26,6 +26,8 @@ Welcome to Introduction to Programming using the Python programming language. Be
 
 [01: Space Needle](https://colab.research.google.com/github/pforkner/Intro_to_Programming/blob/main/01_Space_Needle.ipynb)
 
+[02: Rock, Paper, Scissors](https://colab.research.google.com/github/pforkner/Intro_to_Programming/blob/main/02_Rock_Paper_Scissors.ipynb)
+
 # Credits
 
 Adapted from [Think Python: 3rd Edition](https://allendowney.github.io/ThinkPython/index.html) by [Allen B. Downey](https://allendowney.com)
