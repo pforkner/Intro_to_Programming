@@ -24,7 +24,7 @@ Welcome to Introduction to Programming using the Python programming language. Be
 
 ## Pair Programming Exercises
 
-[01: Space Needle](https://colab.research.google.com/github/pforkner/Intro_to_Programming/blob/main/01_Space_Needle.ipynb)
+[01: Space Needle](https://colab.research.google.com/github/pforkner/Intro_to_Programming/blob/main/01_Space_Needle.ipynb?v=1)
 
 [02: Rock, Paper, Scissors](https://colab.research.google.com/github/pforkner/Intro_to_Programming/blob/main/02_Rock_Paper_Scissors.ipynb)
 
