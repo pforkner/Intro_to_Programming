@@ -16,7 +16,7 @@ Welcome to Introduction to Programming using the Python programming language. Be
 
 [Chapter 6b: Recursion](https://colab.research.google.com/github/pforkner/Intro_to_Programming/blob/main/chap06b.ipynb)
 
-[Chapter 7: Recursion](https://colab.research.google.com/github/pforkner/Intro_to_Programming/blob/main/chap07.ipynb)
+[Chapter 7: Iteration and Search](https://colab.research.google.com/github/pforkner/Intro_to_Programming/blob/main/chap07.ipynb)
 
 [Chapter 8: Strings](https://colab.research.google.com/github/pforkner/Intro_to_Programming/blob/main/chap08.ipynb)
 
